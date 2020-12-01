@@ -1,0 +1,13 @@
+honey:
+  name: honey
+  age: 14
+  owner: Kay
+  species: Dog
+samson:
+  name: Samson
+  age: 7
+  owner: Dee
+  species: Cat
+
+  # dont forget to actually create the pet samson using rails c and Pet.create
+  # otherwise right now pets/2 will be not_found.
